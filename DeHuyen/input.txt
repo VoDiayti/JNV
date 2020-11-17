@@ -1,0 +1,6 @@
+1;Nguyen Van A;131/01/1996;0971718498;nguyenvana@gmail.com;10;cntt;2019
+2;Tran Van B;11/12/1996;0982511774;tranvanb@gmail.com;50;None;2020
+3;Dao Thi C;03/09/1997;0976483084;daothic@gmail.com;None;None;None
+2;Nguyen Thi H;11/08/1997;0982544776;Nguyen Thi H@gmail.com;None;None;2021
+1;Nguyen Van B;13/13/1996;0971718498;nguyenvanb@gmail.com;8;dtvt;2018
+3;Tran Thu Hien;03/10/1999;0876447884;tranthuhiengmail.com;9;None;None

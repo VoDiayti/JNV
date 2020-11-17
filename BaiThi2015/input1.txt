@@ -1,0 +1,4 @@
+4;37A-3521;Not Available;11:30 30/12/2015;Binh thuong
+0;Not Available;112;20:30 01/7/2015;Not Available
+4;37A-1234;Not Available;11:00 30/12/2015;Tray xuoc phia cua truoc
+2;75A-1234;Not Available;20:30 01/7/2015;Not Available

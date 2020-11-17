@@ -1,0 +1,4 @@
+1;Nha Huyen;5.0
+2;Thuy Vi;4.0
+3;Minh Ngoc;7.0
+4;Huynh Ho;3.0
